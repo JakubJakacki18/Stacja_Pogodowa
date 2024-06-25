@@ -1,0 +1,13 @@
+../Core/Src/custom_bus.c:210:9:BSP_I2C1_Init	16	static
+../Core/Src/custom_bus.c:258:9:BSP_I2C1_DeInit	16	static
+../Core/Src/custom_bus.c:286:9:BSP_I2C1_IsReady	24	static
+../Core/Src/custom_bus.c:307:9:BSP_I2C1_WriteReg	48	static
+../Core/Src/custom_bus.c:333:10:BSP_I2C1_ReadReg	48	static
+../Core/Src/custom_bus.c:361:9:BSP_I2C1_WriteReg16	48	static
+../Core/Src/custom_bus.c:386:10:BSP_I2C1_ReadReg16	48	static
+../Core/Src/custom_bus.c:411:9:BSP_I2C1_Send	32	static
+../Core/Src/custom_bus.c:436:9:BSP_I2C1_Recv	32	static
+../Core/Src/custom_bus.c:511:9:BSP_GetTick	8	static
+../Core/Src/custom_bus.c:517:26:MX_I2C1_Init	24	static
+../Core/Src/custom_bus.c:548:13:I2C1_MspInit	184	static
+../Core/Src/custom_bus.c:588:13:I2C1_MspDeInit	16	static
